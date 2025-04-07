@@ -9,7 +9,7 @@
 
   <h2 align="center">🍽️ Grilli - Restaurant Website 🍽️..</h2>
 
-  **Grilli** is a modern, fully responsive restaurant website, designed for a seamless experience on all devices. Built with **HTML**, **CSS**, and **JavaScript**, it provides a sleek, user-friendly interface for showcasing restaurants with style.
+  **Grilli** is a modern, fully responsive restaurant website, designed for a seamless experience on all devices. Built with **HTML**, **CSS**, and **JavaScript**, it provides a sleek, user-friendly interface for showcasing restaurants with style
 
   <a href="https://restaurent-alpha.vercel.app/"><strong>🚀 Live Demo Here ➥</strong></a>
 
